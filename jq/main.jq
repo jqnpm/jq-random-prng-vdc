@@ -1,4 +1,4 @@
-# http://rosettacode.org/mw/index.php?title=Van_der_Corput_sequence#jq
+# https://rosettacode.org/wiki/Van_der_Corput_sequence#jq
 
 def RAND_MAX:
 	1;

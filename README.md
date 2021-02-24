@@ -4,9 +4,9 @@
 
 # [jq-random-prng-vdc](https://github.com/joelpurra/jq-random-prng-vdc)
 
-An [implementation of](http://rosettacode.org/mw/index.php?title=Van_der_Corput_sequence#jq) the [Van der Corput](https://en.wikipedia.org/wiki/Van_der_Corput_sequence) [quasirandom sequence](http://mathworld.wolfram.com/QuasirandomSequence.html) generator function. The range is `[0,1)`.
+An [implementation of](https://rosettacode.org/wiki/Van_der_Corput_sequence#jq) the [Van der Corput](https://en.wikipedia.org/wiki/Van_der_Corput_sequence) [quasirandom sequence](https://mathworld.wolfram.com/QuasirandomSequence.html) generator function. The range is `[0,1)`.
 
-[Used with permission](https://github.com/stedolan/jq/issues/677#issuecomment-71730811) from Peter Koppstein ([@pkoppstein](https://github.com/pkoppstein)). Also published on the [Rosetta Code](http://rosettacode.org/) wiki.
+[Used with permission](https://github.com/stedolan/jq/issues/677#issuecomment-71730811) from Peter Koppstein ([@pkoppstein](https://github.com/pkoppstein)). Also published on the [Rosetta Code](https://rosettacode.org/) wiki.
 
 This is a package for the command-line JSON processor [`jq`](https://stedolan.github.io/jq/). Install the package in your jq project/package directory with [`jqnpm`](https://github.com/joelpurra/jqnpm):
 
@@ -41,7 +41,7 @@ Base 5: [	0,	0.2,	0.4,	0.6,	0.8,	0.04,	0.24,	0.44,	0.64,	0.84,	0.08	]
 ---
 
 ## License
-Copyright (c) 2014, 2015 Peter Koppstein <https://github.com/pkoppstein> and Joel Purra <http://joelpurra.com>
+Copyright (c) 2014, 2015 Peter Koppstein <https://github.com/pkoppstein> and Joel Purra <https://joelpurra.com/>
 All rights reserved.
 
 When using **jq-random-prng-vdc**, comply to the MIT license. Please see the LICENSE file for details.
