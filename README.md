@@ -6,6 +6,14 @@
 
 An [implementation of](https://rosettacode.org/wiki/Van_der_Corput_sequence#jq) the [Van der Corput](https://en.wikipedia.org/wiki/Van_der_Corput_sequence) [quasirandom sequence](https://mathworld.wolfram.com/QuasirandomSequence.html) generator function. The range is `[0,1)`.
 
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 [Used with permission](https://github.com/stedolan/jq/issues/677#issuecomment-71730811) from Peter Koppstein ([@pkoppstein](https://github.com/pkoppstein)). Also published on the [Rosetta Code](https://rosettacode.org/) wiki.
 
 This is a package for the command-line JSON processor [`jq`](https://stedolan.github.io/jq/). Install the package in your jq project/package directory with [`jqnpm`](https://github.com/joelpurra/jqnpm):
